@@ -2,6 +2,14 @@
 
 Create AI marketing videos and images using your [Arcads](https://arcads.ai/?via=claude-code) account, powered by AI agents in **Claude Code** or **Cursor**. Supports the full Arcads creative stack — **Seedance 2.0** (flagship video), **Sora 2**, **Veo 3.1**, **Kling 3.0**, **Grok Video**, **Nano Banana 2 / Pro / Edit**, **ChatGPT Image 2**, **OmniHuman**, and **Audio-driven** — plus a 37-template static Meta image-ad library and a pipeline for **Pixar-style** and **claymation** animated ads.
 
+## Anatomy of a great AI song ad
+
+A visual guide to the nine story beats of a narrative AI song ad, why each section works, and the music, visuals, and editing choices that support the story.
+
+[![Anatomy of a great AI song ad: nine illustrated story beats from the opening hook to the final invitation, with an explanation of each section and supporting music, picture, and editing principles.](docs/images/ai-song-ad-anatomy.png)](docs/images/ai-song-ad-anatomy.png)
+
+[View the full-size infographic](docs/images/ai-song-ad-anatomy.png)
+
 ## 🎥 Watch the walkthrough
 
 [![How To Build Entire AI Ad Campaigns With Claude Code (free repo)](https://i.ytimg.com/vi/HHGQN9Zqaxo/hqdefault.jpg)](https://youtu.be/HHGQN9Zqaxo)
